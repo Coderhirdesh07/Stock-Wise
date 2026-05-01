@@ -1,0 +1,9 @@
+import React from 'react'
+
+function App() {
+  return (
+    <div className="text-xl p-5">App</div>
+  )
+}
+
+export default App
